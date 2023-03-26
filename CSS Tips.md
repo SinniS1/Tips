@@ -109,15 +109,16 @@ table {
 > ```CSS
 > .super-simple-example > .container{
 >     container-type: inline-size;
+>     container-name: hello;
 > }
-> 
-> @container(width>= 375px){
+>
+> @container  hello (width>= 375px){
 >     .super-simple-example > .container {
 >         background-color: red;
 >     }
 > }
-> 
-> @container(width>= 800px){
+>
+> @container hello (width>= 800px){
 >     .super-simple-example > .container {
 >         background-color: red;
 >     }
