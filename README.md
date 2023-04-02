@@ -8,6 +8,7 @@ We write down some of the most important and frequently used Codes which can hel
 > 2. Darkmode feature [🔗🚀](React/Darkmode.md)
 > 3. Passing the params using URL in react [🔗🚀](React/Pass-Param-URL.md)
 > 4. Context API or useContext hook in react [🔗🚀](React/ContextAPI.md)
+> 5. React Redux and Redux Toolkit [🔗🚀](React/Redux.md)
 
 ---
 
