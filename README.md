@@ -13,4 +13,4 @@ We write down some of the most important and frequently used Codes which can hel
 
 ### CSS
 
-> 1. Basics and very Useful CSS tips and tricks [🔗🚀](css/Basics-CSS.md)
+> 1. Basics and very Useful CSS tips and tricks [🔗🚀](CSS/Basics-CSS.md)
