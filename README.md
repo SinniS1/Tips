@@ -9,6 +9,7 @@ We write down some of the most important and frequently used Codes which can hel
 > 3. Passing the params using URL in react [🔗🚀](React/Pass-Param-URL.md)
 > 4. Context API or useContext hook in react [🔗🚀](React/ContextAPI.md)
 > 5. React Redux and Redux Toolkit [🔗🚀](React/Redux.md)
+> 6. Eslint and Prettier setup in React [🔗🚀](React/Eslint-Prettier.md)
 
 ---
 
