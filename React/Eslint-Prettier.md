@@ -8,7 +8,15 @@
 2. In react verssion > 17.0.0 importing react in file is optional so add this rule in eslintrc file
 
    ```json
-   "rules": { "react/react-in-jsx-scope": "off" }
+   "rules": {
+    "react/react-in-jsx-scope": "off",
+    "prettier/prettier": [
+      "error",
+      {
+        "endOfLine": "auto"
+      }
+    ]
+   }
    ```
 
 3. Add eslint plugin for prettier so that both don't collide with each other
