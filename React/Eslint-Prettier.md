@@ -13,7 +13,9 @@
     "prettier/prettier": [
       "error",
       {
-        "endOfLine": "auto"
+        "endOfLine": "auto",
+        "singleQuote": true,
+        "parser": "flow"
       }
     ]
    }
