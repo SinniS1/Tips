@@ -10,6 +10,7 @@ We write down some of the most important and frequently used Codes which can hel
 > 4. Context API or useContext hook in react [🔗🚀](React/ContextAPI.md)
 > 5. React Redux and Redux Toolkit [🔗🚀](React/Redux.md)
 > 6. Eslint and Prettier setup in React [🔗🚀](React/Eslint-Prettier.md)
+> 7. Fontawesome integration with React [🔗🚀](React/Fontawesome-react.md)
 
 ---
 
