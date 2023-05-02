@@ -1,35 +1,46 @@
 ### React Router DOM
+
 > ###### Installation
+>
 > ```CSS
 > npm i react-router-dom
 > ```
+>
 > ###### Setup
-> ``` CSS
+>
+> ```CSS
 > import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 > ```
+>
 > ###### simple
-> > ``` HTML
+>
+> > ```HTML
 > > <Router>
 > >    <Navbar />
 > >    <Routes>
-> >    	<Route exact path="/component" element={<Component } /> />
+> >    	<Route exact path="/component" element={<Component/>} />
 > >     </Routes>
 > > </Router>
 > > ```
-> ###### Layout setup 
+>
+> ###### Layout setup
+>
 > > - Create a layout component
-> > ``` HTML
+> >
+> > ```HTML
 > > <Navbar/>
 > >      <Outlet />
 > > <Footer />
 > > ```
+> >
 > > - add the layout component in main page component
 > > - the layout page will always run and index route will be primary component
-> > ``` HTML
+> >
+> > ```HTML
 > > <Routes>
 > > 	<Route path="/" element={ <Layout/> }/>
 > > 		<Route index element={ <Primary-Component/> } />
-> >	    	<Route path="/other" element={ <other-component/> } />
+> > 	    	<Route path="/other" element={ <other-component/> } />
 > > 	</Route>
 > > </Routes>
 > > ```

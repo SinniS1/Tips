@@ -11,6 +11,7 @@ We write down some of the most important and frequently used Codes which can hel
 > 5. React Redux and Redux Toolkit [🔗🚀](React/Redux.md)
 > 6. Eslint and Prettier setup in React [🔗🚀](React/Eslint-Prettier.md)
 > 7. Fontawesome integration with React [🔗🚀](React/Fontawesome-react.md)
+> 8. React Intersection Observer [🔗🚀](React/Intersection-Observer.md)
 
 ---
 
