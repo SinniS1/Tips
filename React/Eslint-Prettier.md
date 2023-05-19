@@ -36,6 +36,7 @@
 5. Now create .prettierrc file and paste this default code below
 
    ```json
+   // it's just a example you need to change it according to your and your's team own dev environment
    {
      "semi": true,
      "tabWidth": 2,
