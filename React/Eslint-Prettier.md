@@ -36,15 +36,17 @@
 5. Now create .prettierrc file and paste this default code below
 
    ```json
-   // it's just a example you need to change it according to your and your's team own dev environment
-   {
-     "semi": true,
-     "tabWidth": 2,
-     "printWidth": 100,
-     "singleQuote": true,
-     "trailingComma": "none",
-     "jsxBracketSameLine": true
-   }
+   // this configuration is preferrable in most cases.
+{
+  "semi": false,
+  "tabWidth": 2,
+  "printWidth": 100,
+  "singleQuote": true,
+  "jsxSingleQuote": false,
+  "trailingComma": "none",
+  "jsxBracketSameLine": true
+}
+
    ```
 
 6. Now add the below code in package.json file for some tweeks
