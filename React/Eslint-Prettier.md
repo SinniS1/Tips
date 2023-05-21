@@ -35,7 +35,7 @@
 
 5. Now create .prettierrc file and paste this default code below
 
-   ```json
+ ```json
    // this configuration is preferrable in most cases.
 {
   "semi": false,
@@ -46,8 +46,9 @@
   "trailingComma": "none",
   "jsxBracketSameLine": true
 }
+```
 
-   ```
+---
 
 6. Now add the below code in package.json file for some tweeks
 
