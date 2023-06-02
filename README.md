@@ -13,7 +13,7 @@ We write down some of the most important and frequently used Codes which can hel
 > 7. Fontawesome integration with React [🔗🚀](React/Fontawesome-react.md)
 > 8. React Intersection Observer [🔗🚀](React/Intersection-Observer.md)
 > 9. React UseReducer Hook [🔗🚀](React/UseReducer.md)
-
+> 10. Google Icons Integration with React/Next js[🔗🚀](React/Google-Icons.md)
 ---
 
 ### CSS
