@@ -19,3 +19,4 @@ We write down some of the most important and frequently used Codes which can hel
 ### CSS
 
 > 1. Basics and very Useful CSS tips and tricks [🔗🚀](CSS/Basics-CSS.md)
+> 2. Smooth Scrolling for React and Next [🔗🚀](CSS/Smooth-Scrolling.md)
