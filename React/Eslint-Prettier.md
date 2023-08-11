@@ -47,6 +47,15 @@
   "jsxBracketSameLine": true
 }
 ```
+> 5. (b) If you are workign with tailwindCSS and prettier
+> - then do this to add tailwind css sorting
+> ```npm
+> npm install -D prettier-plugin-tailwindcss
+> ```
+> - And then add this into your prettierrc file
+> ```json
+>  "plugins": ["prettier-plugin-tailwindcss"]
+> ```
 
 ---
 
