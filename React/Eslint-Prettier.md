@@ -35,19 +35,19 @@
 
 5. Now create .prettierrc file and paste this default code below
 
- ```json
-   // this configuration is preferrable in most cases.
-{
-  "semi": false,
-  "tabWidth": 2,
-  "printWidth": 100,
-  "singleQuote": true,
-  "jsxSingleQuote": false,
-  "trailingComma": "none",
-  "jsxBracketSameLine": true
-}
-```
-> 5. (b) If you are workign with tailwindCSS and prettier
+    ```json
+      // this configuration is preferrable in most cases.   
+   {
+     "semi": false,
+     "tabWidth": 2,
+     "printWidth": 100,
+     "singleQuote": true,
+     "jsxSingleQuote": false,
+     "trailingComma": "none",
+     "jsxBracketSameLine": true
+   }
+   ```
+> - If you are workign with tailwindCSS and prettier
 > - then do this to add tailwind css sorting
 > ```npm
 > npm install -D prettier-plugin-tailwindcss
